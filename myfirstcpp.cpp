@@ -5,9 +5,9 @@ int main()
     int i = 1;
     for (i = 1;i>0; i++)
     {
-        printf("i is %d", i);
+        printf("i is the  %d", i);
         printf("sudhir");
-        printf("sudhir5");
         printf("latest commit2");
+        printf("new feature branch");
     }
 }
