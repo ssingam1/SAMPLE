@@ -1,3 +1,7 @@
 first clone file
 modify the file
+<<<<<<< HEAD
 add third line in the second repo.
+=======
+added third line in first repo
+>>>>>>> 798145fefe530e8a9829692c60bf501e00b9be05
